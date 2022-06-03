@@ -3,6 +3,8 @@ A program to generate Zhong Xina voicelines
 
 Install ffmpeg first if you want to use this (If windows, https://windowsloop.com/install-ffmpeg-windows-10/ is a link to how to install it, if you use mac or linux then you can go figure it out yourself)
 
+Also install node.js https://nodejs.org/en/
+
 How to run:
 
 Open command line
